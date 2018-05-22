@@ -1,0 +1,17 @@
+{
+  "C:\\Program Files\\Java\\jre1.8.0_162\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre1.8.0_162\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "Could not transfer artifact jre:jre:zip:call:1.0.0 from/to remote-models (http://download.eclipse.org/recommenders/models/kepler/): Error transferring file, server returned status code 307"
+  },
+  "C:\\Users\\Arjun\u0027s PC\\Desktop\\Java_Workspace\\GS_Codesprint_Challenge_Test\\src": {
+    "location": "C:\\Users\\Arjun\u0027s PC\\Desktop\\Java_Workspace\\GS_Codesprint_Challenge_Test\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Arjun\u0027s PC\\Desktop\\Java_Workspace\\GS_Codesprint_Challenge_Test\\src\u0027. Skipped."
+  },
+  "C:\\Users\\Arjun\u0027s PC\\Desktop\\Java_Workspace\\ContactsUsingTrie\\src": {
+    "location": "C:\\Users\\Arjun\u0027s PC\\Desktop\\Java_Workspace\\ContactsUsingTrie\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Arjun\u0027s PC\\Desktop\\Java_Workspace\\ContactsUsingTrie\\src\u0027. Skipped."
+  }
+}

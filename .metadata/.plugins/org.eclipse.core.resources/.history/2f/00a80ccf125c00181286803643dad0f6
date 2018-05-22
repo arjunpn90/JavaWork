@@ -1,0 +1,34 @@
+import java.io.*;
+import java.math.*;
+import java.text.*;
+import java.util.*;
+import java.util.regex.*;
+
+public class Solution {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public static class Node{
+		private static int NUMBER_OF_CHARACTERS = 26;
+		Node[] children = new Node[NUMBER_OF_CHARACTERS];
+		
+		private int getNode(char c){
+			
+		}
+		
+		private void setNode(char c, Node node){
+			
+		}
+		
+		private void add(String s, int index){
+			
+		}
+		
+		private int findCount(String s, int index){
+			
+		}
+	}
+}

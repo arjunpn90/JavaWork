@@ -1,0 +1,22 @@
+import java.util.Comparator;
+import java.util.PriorityQueue;
+
+
+public class FindRunningMedian {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public class ContinuousMedian{
+		public static double[] getMedians(int[] array){
+			PriorityQueue<Integer> lowers = new PriorityQueue<Integer>(new Comparator<Integer>() {
+				public int compare(Integer a, Integer b){
+					return -1 * a.compareTo(b);
+				}
+			});
+		}
+	}
+
+}
